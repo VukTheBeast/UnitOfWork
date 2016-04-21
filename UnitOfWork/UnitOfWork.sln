@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitOfWork.Model", "UnitOfWork.Model\UnitOfWork.Model.csproj", "{E9DE3AA9-D9D9-4A88-9BD5-12994A9A3D98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitOfWork.Infrastructure", "UnitOfWork.Infrastructure\UnitOfWork.Infrastructure.csproj", "{C70D8C1F-D07D-4BCF-BD7A-E137981910A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitOfWork.Repository", "UnitOfWork.Repository\UnitOfWork.Repository.csproj", "{92E307DE-6685-4D8F-B688-ADA196841D73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{41B02448-8442-4BBD-AB9A-63A8688B9996}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitOfWork.Repository.EF", "UnitOfWork.Repository.EF\UnitOfWork.Repository.EF.csproj", "{5FE3129C-D372-4AA9-BFA3-CED32BADAC49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientWPF", "ClientWPF\ClientWPF.csproj", "{60547193-E880-4F04-97B8-341FC3900828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitOfWork.Repository.Xml", "UnitOfWork.Repository.Xml\UnitOfWork.Repository.Xml.csproj", "{ADDB06E0-850B-4DC7-BAF9-06509A529C55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9DE3AA9-D9D9-4A88-9BD5-12994A9A3D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9DE3AA9-D9D9-4A88-9BD5-12994A9A3D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9DE3AA9-D9D9-4A88-9BD5-12994A9A3D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9DE3AA9-D9D9-4A88-9BD5-12994A9A3D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C70D8C1F-D07D-4BCF-BD7A-E137981910A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70D8C1F-D07D-4BCF-BD7A-E137981910A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70D8C1F-D07D-4BCF-BD7A-E137981910A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70D8C1F-D07D-4BCF-BD7A-E137981910A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92E307DE-6685-4D8F-B688-ADA196841D73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E307DE-6685-4D8F-B688-ADA196841D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E307DE-6685-4D8F-B688-ADA196841D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E307DE-6685-4D8F-B688-ADA196841D73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41B02448-8442-4BBD-AB9A-63A8688B9996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41B02448-8442-4BBD-AB9A-63A8688B9996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41B02448-8442-4BBD-AB9A-63A8688B9996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41B02448-8442-4BBD-AB9A-63A8688B9996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FE3129C-D372-4AA9-BFA3-CED32BADAC49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE3129C-D372-4AA9-BFA3-CED32BADAC49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE3129C-D372-4AA9-BFA3-CED32BADAC49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE3129C-D372-4AA9-BFA3-CED32BADAC49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60547193-E880-4F04-97B8-341FC3900828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60547193-E880-4F04-97B8-341FC3900828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60547193-E880-4F04-97B8-341FC3900828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60547193-E880-4F04-97B8-341FC3900828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADDB06E0-850B-4DC7-BAF9-06509A529C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADDB06E0-850B-4DC7-BAF9-06509A529C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADDB06E0-850B-4DC7-BAF9-06509A529C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADDB06E0-850B-4DC7-BAF9-06509A529C55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

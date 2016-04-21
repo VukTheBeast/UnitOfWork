@@ -1,0 +1,14 @@
+D:\Master\UnitOfWork\UnitOfWork.Repository.EF\bin\Release\UnitOfWork.Repository.EF.dll.config
+D:\Master\UnitOfWork\UnitOfWork.Repository.EF\bin\Release\UnitOfWork.Repository.EF.dll
+D:\Master\UnitOfWork\UnitOfWork.Repository.EF\bin\Release\UnitOfWork.Repository.EF.pdb
+D:\Master\UnitOfWork\UnitOfWork.Repository.EF\bin\Release\EntityFramework.dll
+D:\Master\UnitOfWork\UnitOfWork.Repository.EF\bin\Release\EntityFramework.SqlServer.dll
+D:\Master\UnitOfWork\UnitOfWork.Repository.EF\bin\Release\UnitOfWork.Infrastructure.dll
+D:\Master\UnitOfWork\UnitOfWork.Repository.EF\bin\Release\UnitOfWork.Model.dll
+D:\Master\UnitOfWork\UnitOfWork.Repository.EF\bin\Release\UnitOfWork.Infrastructure.pdb
+D:\Master\UnitOfWork\UnitOfWork.Repository.EF\bin\Release\UnitOfWork.Model.pdb
+D:\Master\UnitOfWork\UnitOfWork.Repository.EF\bin\Release\EntityFramework.xml
+D:\Master\UnitOfWork\UnitOfWork.Repository.EF\bin\Release\EntityFramework.SqlServer.xml
+D:\Master\UnitOfWork\UnitOfWork.Repository.EF\obj\Release\UnitOfWork.Repository.EF.csprojResolveAssemblyReference.cache
+D:\Master\UnitOfWork\UnitOfWork.Repository.EF\obj\Release\UnitOfWork.Repository.EF.dll
+D:\Master\UnitOfWork\UnitOfWork.Repository.EF\obj\Release\UnitOfWork.Repository.EF.pdb

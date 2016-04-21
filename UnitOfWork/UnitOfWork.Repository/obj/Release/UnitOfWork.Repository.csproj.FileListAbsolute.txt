@@ -1,0 +1,9 @@
+D:\Master\UnitOfWork\UnitOfWork.Repository\bin\Release\UnitOfWork.Repository.dll
+D:\Master\UnitOfWork\UnitOfWork.Repository\bin\Release\UnitOfWork.Repository.pdb
+D:\Master\UnitOfWork\UnitOfWork.Repository\bin\Release\UnitOfWork.Infrastructure.dll
+D:\Master\UnitOfWork\UnitOfWork.Repository\bin\Release\UnitOfWork.Model.dll
+D:\Master\UnitOfWork\UnitOfWork.Repository\bin\Release\UnitOfWork.Infrastructure.pdb
+D:\Master\UnitOfWork\UnitOfWork.Repository\bin\Release\UnitOfWork.Model.pdb
+D:\Master\UnitOfWork\UnitOfWork.Repository\obj\Release\UnitOfWork.Repository.csprojResolveAssemblyReference.cache
+D:\Master\UnitOfWork\UnitOfWork.Repository\obj\Release\UnitOfWork.Repository.dll
+D:\Master\UnitOfWork\UnitOfWork.Repository\obj\Release\UnitOfWork.Repository.pdb

@@ -1,0 +1,4 @@
+D:\Master\UnitOfWork\UnitOfWork.Infrastructure\bin\Debug\UnitOfWork.Infrastructure.dll
+D:\Master\UnitOfWork\UnitOfWork.Infrastructure\bin\Debug\UnitOfWork.Infrastructure.pdb
+D:\Master\UnitOfWork\UnitOfWork.Infrastructure\obj\Debug\UnitOfWork.Infrastructure.dll
+D:\Master\UnitOfWork\UnitOfWork.Infrastructure\obj\Debug\UnitOfWork.Infrastructure.pdb

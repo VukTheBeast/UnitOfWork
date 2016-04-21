@@ -1,0 +1,5 @@
+D:\Master\UnitOfWork\UnitOfWork.Infrastructure\bin\Release\UnitOfWork.Infrastructure.dll
+D:\Master\UnitOfWork\UnitOfWork.Infrastructure\bin\Release\UnitOfWork.Infrastructure.pdb
+D:\Master\UnitOfWork\UnitOfWork.Infrastructure\obj\Release\UnitOfWork.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Master\UnitOfWork\UnitOfWork.Infrastructure\obj\Release\UnitOfWork.Infrastructure.dll
+D:\Master\UnitOfWork\UnitOfWork.Infrastructure\obj\Release\UnitOfWork.Infrastructure.pdb

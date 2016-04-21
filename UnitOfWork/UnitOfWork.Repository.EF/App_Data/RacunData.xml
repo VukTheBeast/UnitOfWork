@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<racuni>
+  <racun>
+    <id>1</id>
+    <ime>Vuk</ime>
+    <stanjeracuna>20</stanjeracuna>
+  </racun>
+  <racun>
+    <id>2</id>
+    <ime>Marko</ime>
+    <stanjeracuna>110</stanjeracuna>
+  </racun>
+  <racun>
+    <id>3</id>
+    <ime>Jelena</ime>
+    <stanjeracuna>75</stanjeracuna>
+  </racun>
+  <racun>
+    <id>4</id>
+    <ime>Alex</ime>
+    <stanjeracuna>40</stanjeracuna>
+  </racun>
+</racuni>

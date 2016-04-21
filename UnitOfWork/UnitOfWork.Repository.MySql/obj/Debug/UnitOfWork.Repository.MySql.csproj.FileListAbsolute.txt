@@ -1,0 +1,13 @@
+D:\Master\UnitOfWork\UnitOfWork.Repository.MySql\bin\Debug\UnitOfWork.Repository.MySql.dll
+D:\Master\UnitOfWork\UnitOfWork.Repository.MySql\bin\Debug\UnitOfWork.Repository.MySql.pdb
+D:\Master\UnitOfWork\UnitOfWork.Repository.MySql\obj\Debug\UnitOfWork.Repository.MySql.csprojResolveAssemblyReference.cache
+D:\Master\UnitOfWork\UnitOfWork.Repository.MySql\obj\Debug\UnitOfWork.Repository.MySql.dll
+D:\Master\UnitOfWork\UnitOfWork.Repository.MySql\obj\Debug\UnitOfWork.Repository.MySql.pdb
+D:\Master\UnitOfWork\UnitOfWork.Repository.MySql\bin\Debug\System.Data.dll
+D:\Master\UnitOfWork\UnitOfWork.Repository.MySql\bin\Debug\UnitOfWork.Repository.MySql.dll.config
+D:\Master\UnitOfWork\UnitOfWork.Repository.MySql\bin\Debug\EntityFramework.dll
+D:\Master\UnitOfWork\UnitOfWork.Repository.MySql\bin\Debug\EntityFramework.SqlServer.dll
+D:\Master\UnitOfWork\UnitOfWork.Repository.MySql\bin\Debug\MySql.Data.dll
+D:\Master\UnitOfWork\UnitOfWork.Repository.MySql\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Master\UnitOfWork\UnitOfWork.Repository.MySql\bin\Debug\EntityFramework.xml
+D:\Master\UnitOfWork\UnitOfWork.Repository.MySql\bin\Debug\EntityFramework.SqlServer.xml
